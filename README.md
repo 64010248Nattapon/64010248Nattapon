@@ -1,4 +1,4 @@
-# สวัสดี 👋 ฉันคือ Nattapon (64010248Nattapon)
+# สวัสดีผม ณัฐพล บุญแดง
 
 กำลังศึกษา Master of Engineering in Electrical and Computer Engineering — นักพัฒนา (Developer) ที่สนใจด้าน Embedded systems, AI, IoT และ Software Engineering
 
