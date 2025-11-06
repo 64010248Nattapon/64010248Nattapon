@@ -1,12 +1,11 @@
 # สวัสดี 👋 ฉันคือ Nattapon (64010248Nattapon)
 
-กำลังศึกษา Master of Engineering in Electrical and Computer Engineering — นักพัฒนา (Developer) ที่สนใจด้าน Embedded systems, Robotics, IoT และ Software Engineering
+กำลังศึกษา Master of Engineering in Electrical and Computer Engineering — นักพัฒนา (Developer) ที่สนใจด้าน Embedded systems, AI, IoT และ Software Engineering
 
 ---
 
 ## เกี่ยวกับฉัน
 - สถานะ: นักศึกษาปริญญาโท สาขา Electrical and Computer Engineering
-- รวมความรู้ด้านไฟฟ้าอิเล็กทรอนิกส์และซอฟต์แวร์เพื่อพัฒนาระบบฝังตัวและโซลูชัน IoT
 
 ---
 
@@ -24,7 +23,6 @@
 - Motor-Control-STM32 — การควบคุมมอเตอร์ด้วย PID บน STM32 พร้อม encoder feedback
 - TinyML-Classifier — ติดตั้งโมเดล ML ขนาดเล็กบน MCU (TensorFlow Lite for Microcontrollers)
 
-(ปักหมุดโปรเจคที่สำคัญเพื่อให้ผู้เข้าชมเห็นก่อน)
 
 ---
 
@@ -36,27 +34,13 @@
 ---
 
 ## หาสิ่งที่สนใจ
-- โอกาสฝึกงานหรือโปรเจคร่วมใน embedded systems, robotics, หรือ IoT
+- โอกาสฝึกงานหรือโปรเจคร่วมใน embedded systems, AI, หรือ IoT
 - งานวิจัยร่วมกับกลุ่ม control/robotics/edge AI
 - ความร่วมมือโอเพ่นซอร์สที่เกี่ยวข้องกับ hardware + software integration
 
 ---
 
 ## ติดต่อ
-- Email: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email: nattapon.prasertwaree.com
+- LinkedIn: 
 
----
-
-## คำแนะนำการปรับหน้าโปรไฟล์ให้โดดเด่น
-1. ปักหมุด (Pin) 3-6 โปรเจคที่ดีที่สุดของคุณ
-2. ใส่ README.md ในแต่ละ repo อธิบายวิธีรันและผลลัพธ์
-3. เพิ่มรูปตัวอย่างหรือวิดีโอสั้นของโปรเจค (GIF/MP4)
-
----
-
-ถ้าต้องการ ฉันสามารถ:
-- แก้ข้อความเป็นภาษาอังกฤษเต็มรูปแบบสำหรับโปรไฟล์สากล
-- สร้าง README ตัวอย่างสำหรับแต่ละโปรเจค พร้อม badges และวิธีรัน
-
-บอกฉันว่าต้องการให้ฉันทำต่อ (เช่น แก้เนื้อหา, แปลเป็นอังกฤษ, หรือสร้าง README ใน repo โปรเจคใด)
