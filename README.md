@@ -18,7 +18,7 @@
 
 ---
 
-## โปรเจคแนะนำ (ตัวอย่าง)
+## โปรเจค
 - Smart-Sensor-Node — ระบบเซนเซอร์ไร้สาย (ESP32) เก็บข้อมูลและส่งขึ้น MQTT + Dashboard
 - Motor-Control-STM32 — การควบคุมมอเตอร์ด้วย PID บน STM32 พร้อม encoder feedback
 - TinyML-Classifier — ติดตั้งโมเดล ML ขนาดเล็กบน MCU (TensorFlow Lite for Microcontrollers)
@@ -27,9 +27,7 @@
 ---
 
 ## กำลังศึกษา / สนใจ
-- TinyML และการรัน deep learning บน edge devices
-- Real-time systems และ RTOS (FreeRTOS)
-- Secure IoT (secure boot, OTA updates)
+
 
 ---
 
