@@ -1,44 +1,78 @@
-# สวัสดีผม ณัฐพล บุญแดง
+# สวัสดีครับ ผม นัฐพล เทพเจ้า เหรออคร 👋
 
-กำลังศึกษา Master of Engineering in Electrical and Computer Engineering — นักพัฒนา (Developer) ที่สนใจด้าน Embedded systems, AI, IoT และ Software Engineering
+## 🎓 การศึกษา
+
+**ปริญญาโท วิศวกรรมศาสตรมหาบัณฑิต** - สาขาวิชาวิศวกรรมไฟฟ้าและคอมพิวเตอร์  
+สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.)  
+*กำลังศึกษา*
+
+**ปริญญาตรี วิศวกรรมศาสตรบัณฑิต** - สาขาวิชาวิศวกรรมคอมพิวเตอร์  
+สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.)  
+*สำเร็จการศึกษา*
+
+## 🔬 ความสนใจด้านการวิจัย
+
+- **Computer Vision** - ระบบจดจำป้ายทะเบียนรถไทย, ระบบตรวจจับยานพาหนะ
+- **Deep Learning** - สถาปัตยกรรม CNN, โมเดล YOLO (v5, v8, v11)
+- **AI Applications** - การพัฒนาและปรับใช้ระบบ AI ในสถานการณ์จริง
+
+## 🚀 โปรเจกต์ปัจจุบัน
+
+### 📝 งานวิจัย IEEE
+การเปรียบเทียบประสิทธิภาพ CNN สถาปัตยกรรม 7 แบบร่วมกับ YOLOv8n สำหรับการจดจำอักษรและจังหวัดบนป้ายทะเบียนรถไทย ในสภาวะแวดล้อมต่างๆ (กลางวัน/กลางคืน/เบลอ)
+
+### 🚗 ระบบตรวจจับยานพาหนะ
+พัฒนาระบบตรวจสอบทางเข้าสถาบันแบบครบวงจร ประกอบด้วย:
+- ระบบกล้องหลายตัว (6 กล้อง)
+- ประมวลผลแบบ Real-time ด้วย RTX 4090
+- จัดการพื้นที่จัดเก็บข้อมูลอัตโนมัติ
+- ปรับแต่งประสิทธิภาพแบบ Multi-process
+
+### 💼 แพลตฟอร์ม MigrantWork
+แพลตฟอร์มหางานสำหรับแรงงานต่างด้าวในประเทศไทย พร้อมระบบรองรับหลายภาษาและการตรวจสอบความปลอดภัย
+
+## 💻 เทคโนโลยีที่ใช้
+
+### AI & Computer Vision
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+
+### Full-Stack Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### IoT & Embedded Systems
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+
+## 🏆 ผลงานที่ผ่านมา
+
+- 🎯 **LINE HACK 2025** - พัฒนาแอปพลิเคชัน "LINE หมอใกล้ใจ" ที่ปรึกษาสุขภาพด้วย AI
+- 📊 ระบบจดจำป้ายทะเบียนรถไทยด้วยสถาปัตยกรรม CNN สมัยใหม่
+- 🖥️ ระบบจอแสดงผล e-Paper พร้อมการสื่อสารผ่าน ESP32 และแอปพลิเคชันมือถือ Flutter
+
+## 🌱 กำลังศึกษาเพิ่มเติม
+
+- สถาปัตยกรรม Deep Learning ขั้นสูงสำหรับ Computer Vision
+- การนำระบบ AI ไปใช้งานจริงและการเพิ่มประสิทธิภาพ
+- ระบบติดตามและเฝ้าระวังด้วยกล้องหลายตัว
+
+## 📫 ติดต่อผม
+
+- 📧 Email: [อีเมลของคุณ]
+- 💼 LinkedIn: [LinkedIn ของคุณ]
+- 🌐 ที่อยู่: กรุงเทพมหานคร ประเทศไทย
+
+## 📊 สถิติ GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
-## เกี่ยวกับฉัน
-- สถานะ: นักศึกษาปริญญาโท สาขา Electrical and Computer Engineering
-
----
-
-## ทักษะ (Skills)
-- ภาษาโปรแกรม: C / C++ (embedded), Python, MATLAB, JavaScript (พื้นฐาน)
-- Embedded & Hardware: STM32, ESP32, Arduino, Raspberry Pi, I2C, SPI, UART, PWM, ADC
-- Software & DevOps: Git, Linux, Docker, CI/CD (พื้นฐาน)
-- Algorithms & Signal Processing: Digital signal processing, Control systems, Data analysis
-- Tools: VS Code, PlatformIO, STM32CubeIDE, KiCad
-
----
-
-## โปรเจค
-- Smart-Sensor-Node — ระบบเซนเซอร์ไร้สาย (ESP32) เก็บข้อมูลและส่งขึ้น MQTT + Dashboard
-- Motor-Control-STM32 — การควบคุมมอเตอร์ด้วย PID บน STM32 พร้อม encoder feedback
-- TinyML-Classifier — ติดตั้งโมเดล ML ขนาดเล็กบน MCU (TensorFlow Lite for Microcontrollers)
-
-
----
-
-## กำลังศึกษา / สนใจ
-
-
----
-
-## หาสิ่งที่สนใจ
-- โอกาสฝึกงานหรือโปรเจคร่วมใน embedded systems, AI, หรือ IoT
-- งานวิจัยร่วมกับกลุ่ม control/robotics/edge AI
-- ความร่วมมือโอเพ่นซอร์สที่เกี่ยวข้องกับ hardware + software integration
-
----
-
-## ติดต่อ
-- Email: nattapon.prasertwaree.com
-- LinkedIn: 
-
+💡 *"สร้างโซลูชัน AI เพื่อแก้ปัญหาในโลกจริง โดยเน้นบริบทของไทยและเอเชียตะวันออกเฉียงใต้"*
